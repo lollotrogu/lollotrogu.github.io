@@ -16,7 +16,7 @@ Bilingual Italian/English personal portfolio built with React, TypeScript, Tailw
 
 ## GitHub Pages
 
-Target repository: `lorenzotrogu/lorenzotrogu.github.io`.
+Target repository: `lollotrogu/lollotrogu.github.io`.
 
 The workflow in `.github/workflows/deploy-pages.yml` builds the site with Node.js 24 and deploys `dist` when `main` is updated. In repository Settings → Pages, select GitHub Actions as the publishing source. This is a user-site deployment at the domain root, so Vite's default `/` base is retained. Development helpers, local files, dependencies, and Sites metadata are excluded from Git.
 
